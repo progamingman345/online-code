@@ -1,6 +1,7 @@
 # online-code
   
 TIP : DO NOT IMPORT THIS TO REPL OR ELSE IT WONT WORK
+TIP : YOU NEED TO DOWNLOAD THE PACKAGES THAT I WILL SAY IT WILL BE " express " and " discord.js " ( if you already download it you can skip ) IF YOU WONT DO IT IT WILL NOT WORK
 
 HOW TO SETUP : 
 
